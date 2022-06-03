@@ -1,0 +1,15 @@
+C:\Users\Mohammed\Desktop\DesignPattern\SolidPriniciple\bin\Debug\net6.0\SolidPriniciple.exe
+C:\Users\Mohammed\Desktop\DesignPattern\SolidPriniciple\bin\Debug\net6.0\SolidPriniciple.deps.json
+C:\Users\Mohammed\Desktop\DesignPattern\SolidPriniciple\bin\Debug\net6.0\SolidPriniciple.runtimeconfig.json
+C:\Users\Mohammed\Desktop\DesignPattern\SolidPriniciple\bin\Debug\net6.0\SolidPriniciple.dll
+C:\Users\Mohammed\Desktop\DesignPattern\SolidPriniciple\bin\Debug\net6.0\SolidPriniciple.pdb
+C:\Users\Mohammed\Desktop\DesignPattern\SolidPriniciple\obj\Debug\net6.0\SolidPriniciple.csproj.AssemblyReference.cache
+C:\Users\Mohammed\Desktop\DesignPattern\SolidPriniciple\obj\Debug\net6.0\SolidPriniciple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mohammed\Desktop\DesignPattern\SolidPriniciple\obj\Debug\net6.0\SolidPriniciple.AssemblyInfoInputs.cache
+C:\Users\Mohammed\Desktop\DesignPattern\SolidPriniciple\obj\Debug\net6.0\SolidPriniciple.AssemblyInfo.cs
+C:\Users\Mohammed\Desktop\DesignPattern\SolidPriniciple\obj\Debug\net6.0\SolidPriniciple.csproj.CoreCompileInputs.cache
+C:\Users\Mohammed\Desktop\DesignPattern\SolidPriniciple\obj\Debug\net6.0\SolidPriniciple.dll
+C:\Users\Mohammed\Desktop\DesignPattern\SolidPriniciple\obj\Debug\net6.0\refint\SolidPriniciple.dll
+C:\Users\Mohammed\Desktop\DesignPattern\SolidPriniciple\obj\Debug\net6.0\SolidPriniciple.pdb
+C:\Users\Mohammed\Desktop\DesignPattern\SolidPriniciple\obj\Debug\net6.0\SolidPriniciple.genruntimeconfig.cache
+C:\Users\Mohammed\Desktop\DesignPattern\SolidPriniciple\obj\Debug\net6.0\ref\SolidPriniciple.dll

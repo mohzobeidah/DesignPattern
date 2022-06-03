@@ -1,0 +1,17 @@
+C:\Users\Mohammed\Desktop\DesignPattern\Prototype\prototypeDesignPattern\bin\Debug\net6.0\prototypeDesignPattern.exe
+C:\Users\Mohammed\Desktop\DesignPattern\Prototype\prototypeDesignPattern\bin\Debug\net6.0\prototypeDesignPattern.deps.json
+C:\Users\Mohammed\Desktop\DesignPattern\Prototype\prototypeDesignPattern\bin\Debug\net6.0\prototypeDesignPattern.runtimeconfig.json
+C:\Users\Mohammed\Desktop\DesignPattern\Prototype\prototypeDesignPattern\bin\Debug\net6.0\prototypeDesignPattern.dll
+C:\Users\Mohammed\Desktop\DesignPattern\Prototype\prototypeDesignPattern\bin\Debug\net6.0\prototypeDesignPattern.pdb
+C:\Users\Mohammed\Desktop\DesignPattern\Prototype\prototypeDesignPattern\obj\Debug\net6.0\prototypeDesignPattern.csproj.AssemblyReference.cache
+C:\Users\Mohammed\Desktop\DesignPattern\Prototype\prototypeDesignPattern\obj\Debug\net6.0\prototypeDesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mohammed\Desktop\DesignPattern\Prototype\prototypeDesignPattern\obj\Debug\net6.0\prototypeDesignPattern.AssemblyInfoInputs.cache
+C:\Users\Mohammed\Desktop\DesignPattern\Prototype\prototypeDesignPattern\obj\Debug\net6.0\prototypeDesignPattern.AssemblyInfo.cs
+C:\Users\Mohammed\Desktop\DesignPattern\Prototype\prototypeDesignPattern\obj\Debug\net6.0\prototypeDesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\Mohammed\Desktop\DesignPattern\Prototype\prototypeDesignPattern\obj\Debug\net6.0\prototypeDesignPattern.dll
+C:\Users\Mohammed\Desktop\DesignPattern\Prototype\prototypeDesignPattern\obj\Debug\net6.0\refint\prototypeDesignPattern.dll
+C:\Users\Mohammed\Desktop\DesignPattern\Prototype\prototypeDesignPattern\obj\Debug\net6.0\prototypeDesignPattern.pdb
+C:\Users\Mohammed\Desktop\DesignPattern\Prototype\prototypeDesignPattern\obj\Debug\net6.0\prototypeDesignPattern.genruntimeconfig.cache
+C:\Users\Mohammed\Desktop\DesignPattern\Prototype\prototypeDesignPattern\obj\Debug\net6.0\ref\prototypeDesignPattern.dll
+C:\Users\Mohammed\Desktop\DesignPattern\Prototype\prototypeDesignPattern\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Mohammed\Desktop\DesignPattern\Prototype\prototypeDesignPattern\obj\Debug\net6.0\prototypeDesignPattern.csproj.CopyComplete

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "tHGebvQHjvkxMfuhbUspIUBEzFLBHDrLyzOefsD6HHK8eLR5BuSuyWZ4Z/CZ5n4mu6hihemib/FEGZbdUCpk6Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Mohammed\\Desktop\\DesignPattern\\Prototype\\prototypeDesignPattern\\prototypeDesignPattern.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mohammed\\.nuget\\packages\\newtonsoft.json\\13.0.2-beta1\\newtonsoft.json.13.0.2-beta1.nupkg.sha512"
+  ],
+  "logs": []
+}

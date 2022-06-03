@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "LMOtMu+klen9oY429GrPeEvXhAkiQr1xiHLx8eXk+TLlTa4PNkHQsn9QiWBLa+uNj1KBMoOmKeFnCGypu+6R4g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Mohammed\\Desktop\\DesignPattern\\SingletonPattern\\FacotryPatterm\\FacotryPatterm.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mohammed\\.nuget\\packages\\newtonsoft.json\\13.0.2-beta1\\newtonsoft.json.13.0.2-beta1.nupkg.sha512"
+  ],
+  "logs": []
+}

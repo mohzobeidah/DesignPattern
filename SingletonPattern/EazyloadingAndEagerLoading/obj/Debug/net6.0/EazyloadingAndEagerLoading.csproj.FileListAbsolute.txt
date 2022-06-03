@@ -1,0 +1,15 @@
+C:\Users\Mohammed\Desktop\DesignPattern\SingletonPattern\EazyloadingAndEagerLoading\bin\Debug\net6.0\EazyloadingAndEagerLoading.exe
+C:\Users\Mohammed\Desktop\DesignPattern\SingletonPattern\EazyloadingAndEagerLoading\bin\Debug\net6.0\EazyloadingAndEagerLoading.deps.json
+C:\Users\Mohammed\Desktop\DesignPattern\SingletonPattern\EazyloadingAndEagerLoading\bin\Debug\net6.0\EazyloadingAndEagerLoading.runtimeconfig.json
+C:\Users\Mohammed\Desktop\DesignPattern\SingletonPattern\EazyloadingAndEagerLoading\bin\Debug\net6.0\EazyloadingAndEagerLoading.dll
+C:\Users\Mohammed\Desktop\DesignPattern\SingletonPattern\EazyloadingAndEagerLoading\bin\Debug\net6.0\EazyloadingAndEagerLoading.pdb
+C:\Users\Mohammed\Desktop\DesignPattern\SingletonPattern\EazyloadingAndEagerLoading\obj\Debug\net6.0\EazyloadingAndEagerLoading.csproj.AssemblyReference.cache
+C:\Users\Mohammed\Desktop\DesignPattern\SingletonPattern\EazyloadingAndEagerLoading\obj\Debug\net6.0\EazyloadingAndEagerLoading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mohammed\Desktop\DesignPattern\SingletonPattern\EazyloadingAndEagerLoading\obj\Debug\net6.0\EazyloadingAndEagerLoading.AssemblyInfoInputs.cache
+C:\Users\Mohammed\Desktop\DesignPattern\SingletonPattern\EazyloadingAndEagerLoading\obj\Debug\net6.0\EazyloadingAndEagerLoading.AssemblyInfo.cs
+C:\Users\Mohammed\Desktop\DesignPattern\SingletonPattern\EazyloadingAndEagerLoading\obj\Debug\net6.0\EazyloadingAndEagerLoading.csproj.CoreCompileInputs.cache
+C:\Users\Mohammed\Desktop\DesignPattern\SingletonPattern\EazyloadingAndEagerLoading\obj\Debug\net6.0\EazyloadingAndEagerLoading.dll
+C:\Users\Mohammed\Desktop\DesignPattern\SingletonPattern\EazyloadingAndEagerLoading\obj\Debug\net6.0\refint\EazyloadingAndEagerLoading.dll
+C:\Users\Mohammed\Desktop\DesignPattern\SingletonPattern\EazyloadingAndEagerLoading\obj\Debug\net6.0\EazyloadingAndEagerLoading.pdb
+C:\Users\Mohammed\Desktop\DesignPattern\SingletonPattern\EazyloadingAndEagerLoading\obj\Debug\net6.0\EazyloadingAndEagerLoading.genruntimeconfig.cache
+C:\Users\Mohammed\Desktop\DesignPattern\SingletonPattern\EazyloadingAndEagerLoading\obj\Debug\net6.0\ref\EazyloadingAndEagerLoading.dll

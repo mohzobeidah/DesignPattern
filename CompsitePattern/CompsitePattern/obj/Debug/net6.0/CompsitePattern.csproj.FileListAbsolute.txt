@@ -1,0 +1,15 @@
+C:\Users\Mohammed\Desktop\DesignPattern\CompsitePattern\CompsitePattern\bin\Debug\net6.0\CompsitePattern.exe
+C:\Users\Mohammed\Desktop\DesignPattern\CompsitePattern\CompsitePattern\bin\Debug\net6.0\CompsitePattern.deps.json
+C:\Users\Mohammed\Desktop\DesignPattern\CompsitePattern\CompsitePattern\bin\Debug\net6.0\CompsitePattern.runtimeconfig.json
+C:\Users\Mohammed\Desktop\DesignPattern\CompsitePattern\CompsitePattern\bin\Debug\net6.0\CompsitePattern.dll
+C:\Users\Mohammed\Desktop\DesignPattern\CompsitePattern\CompsitePattern\bin\Debug\net6.0\CompsitePattern.pdb
+C:\Users\Mohammed\Desktop\DesignPattern\CompsitePattern\CompsitePattern\obj\Debug\net6.0\CompsitePattern.csproj.AssemblyReference.cache
+C:\Users\Mohammed\Desktop\DesignPattern\CompsitePattern\CompsitePattern\obj\Debug\net6.0\CompsitePattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mohammed\Desktop\DesignPattern\CompsitePattern\CompsitePattern\obj\Debug\net6.0\CompsitePattern.AssemblyInfoInputs.cache
+C:\Users\Mohammed\Desktop\DesignPattern\CompsitePattern\CompsitePattern\obj\Debug\net6.0\CompsitePattern.AssemblyInfo.cs
+C:\Users\Mohammed\Desktop\DesignPattern\CompsitePattern\CompsitePattern\obj\Debug\net6.0\CompsitePattern.csproj.CoreCompileInputs.cache
+C:\Users\Mohammed\Desktop\DesignPattern\CompsitePattern\CompsitePattern\obj\Debug\net6.0\CompsitePattern.dll
+C:\Users\Mohammed\Desktop\DesignPattern\CompsitePattern\CompsitePattern\obj\Debug\net6.0\refint\CompsitePattern.dll
+C:\Users\Mohammed\Desktop\DesignPattern\CompsitePattern\CompsitePattern\obj\Debug\net6.0\CompsitePattern.pdb
+C:\Users\Mohammed\Desktop\DesignPattern\CompsitePattern\CompsitePattern\obj\Debug\net6.0\CompsitePattern.genruntimeconfig.cache
+C:\Users\Mohammed\Desktop\DesignPattern\CompsitePattern\CompsitePattern\obj\Debug\net6.0\ref\CompsitePattern.dll

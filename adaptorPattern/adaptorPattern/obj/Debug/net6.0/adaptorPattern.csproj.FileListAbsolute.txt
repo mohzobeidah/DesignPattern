@@ -1,0 +1,17 @@
+C:\Users\Mohammed\Desktop\DesignPattern\adaptorPattern\adaptorPattern\bin\Debug\net6.0\adaptorPattern.exe
+C:\Users\Mohammed\Desktop\DesignPattern\adaptorPattern\adaptorPattern\bin\Debug\net6.0\adaptorPattern.deps.json
+C:\Users\Mohammed\Desktop\DesignPattern\adaptorPattern\adaptorPattern\bin\Debug\net6.0\adaptorPattern.runtimeconfig.json
+C:\Users\Mohammed\Desktop\DesignPattern\adaptorPattern\adaptorPattern\bin\Debug\net6.0\adaptorPattern.dll
+C:\Users\Mohammed\Desktop\DesignPattern\adaptorPattern\adaptorPattern\bin\Debug\net6.0\adaptorPattern.pdb
+C:\Users\Mohammed\Desktop\DesignPattern\adaptorPattern\adaptorPattern\obj\Debug\net6.0\adaptorPattern.csproj.AssemblyReference.cache
+C:\Users\Mohammed\Desktop\DesignPattern\adaptorPattern\adaptorPattern\obj\Debug\net6.0\adaptorPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mohammed\Desktop\DesignPattern\adaptorPattern\adaptorPattern\obj\Debug\net6.0\adaptorPattern.AssemblyInfoInputs.cache
+C:\Users\Mohammed\Desktop\DesignPattern\adaptorPattern\adaptorPattern\obj\Debug\net6.0\adaptorPattern.AssemblyInfo.cs
+C:\Users\Mohammed\Desktop\DesignPattern\adaptorPattern\adaptorPattern\obj\Debug\net6.0\adaptorPattern.csproj.CoreCompileInputs.cache
+C:\Users\Mohammed\Desktop\DesignPattern\adaptorPattern\adaptorPattern\obj\Debug\net6.0\adaptorPattern.dll
+C:\Users\Mohammed\Desktop\DesignPattern\adaptorPattern\adaptorPattern\obj\Debug\net6.0\refint\adaptorPattern.dll
+C:\Users\Mohammed\Desktop\DesignPattern\adaptorPattern\adaptorPattern\obj\Debug\net6.0\adaptorPattern.pdb
+C:\Users\Mohammed\Desktop\DesignPattern\adaptorPattern\adaptorPattern\obj\Debug\net6.0\adaptorPattern.genruntimeconfig.cache
+C:\Users\Mohammed\Desktop\DesignPattern\adaptorPattern\adaptorPattern\obj\Debug\net6.0\ref\adaptorPattern.dll
+C:\Users\Mohammed\Desktop\DesignPattern\adaptorPattern\adaptorPattern\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Mohammed\Desktop\DesignPattern\adaptorPattern\adaptorPattern\obj\Debug\net6.0\adaptorPattern.csproj.CopyComplete

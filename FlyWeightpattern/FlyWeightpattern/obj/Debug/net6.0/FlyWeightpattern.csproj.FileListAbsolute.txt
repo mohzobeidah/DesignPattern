@@ -1,0 +1,17 @@
+C:\Users\Mohammed\Desktop\DesignPattern\FlyWeightpattern\FlyWeightpattern\bin\Debug\net6.0\FlyWeightpattern.exe
+C:\Users\Mohammed\Desktop\DesignPattern\FlyWeightpattern\FlyWeightpattern\bin\Debug\net6.0\FlyWeightpattern.deps.json
+C:\Users\Mohammed\Desktop\DesignPattern\FlyWeightpattern\FlyWeightpattern\bin\Debug\net6.0\FlyWeightpattern.runtimeconfig.json
+C:\Users\Mohammed\Desktop\DesignPattern\FlyWeightpattern\FlyWeightpattern\bin\Debug\net6.0\FlyWeightpattern.dll
+C:\Users\Mohammed\Desktop\DesignPattern\FlyWeightpattern\FlyWeightpattern\bin\Debug\net6.0\FlyWeightpattern.pdb
+C:\Users\Mohammed\Desktop\DesignPattern\FlyWeightpattern\FlyWeightpattern\obj\Debug\net6.0\FlyWeightpattern.csproj.AssemblyReference.cache
+C:\Users\Mohammed\Desktop\DesignPattern\FlyWeightpattern\FlyWeightpattern\obj\Debug\net6.0\FlyWeightpattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mohammed\Desktop\DesignPattern\FlyWeightpattern\FlyWeightpattern\obj\Debug\net6.0\FlyWeightpattern.AssemblyInfoInputs.cache
+C:\Users\Mohammed\Desktop\DesignPattern\FlyWeightpattern\FlyWeightpattern\obj\Debug\net6.0\FlyWeightpattern.AssemblyInfo.cs
+C:\Users\Mohammed\Desktop\DesignPattern\FlyWeightpattern\FlyWeightpattern\obj\Debug\net6.0\FlyWeightpattern.csproj.CoreCompileInputs.cache
+C:\Users\Mohammed\Desktop\DesignPattern\FlyWeightpattern\FlyWeightpattern\obj\Debug\net6.0\FlyWeightpattern.dll
+C:\Users\Mohammed\Desktop\DesignPattern\FlyWeightpattern\FlyWeightpattern\obj\Debug\net6.0\refint\FlyWeightpattern.dll
+C:\Users\Mohammed\Desktop\DesignPattern\FlyWeightpattern\FlyWeightpattern\obj\Debug\net6.0\FlyWeightpattern.pdb
+C:\Users\Mohammed\Desktop\DesignPattern\FlyWeightpattern\FlyWeightpattern\obj\Debug\net6.0\FlyWeightpattern.genruntimeconfig.cache
+C:\Users\Mohammed\Desktop\DesignPattern\FlyWeightpattern\FlyWeightpattern\obj\Debug\net6.0\ref\FlyWeightpattern.dll
+C:\Users\Mohammed\Desktop\DesignPattern\FlyWeightpattern\FlyWeightpattern\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Mohammed\Desktop\DesignPattern\FlyWeightpattern\FlyWeightpattern\obj\Debug\net6.0\FlyWeightpattern.csproj.CopyComplete

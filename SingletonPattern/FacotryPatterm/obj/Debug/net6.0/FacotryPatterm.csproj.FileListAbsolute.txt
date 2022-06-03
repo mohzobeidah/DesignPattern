@@ -1,0 +1,15 @@
+C:\Users\Mohammed\Desktop\DesignPattern\SingletonPattern\FacotryPatterm\bin\Debug\net6.0\FacotryPatterm.exe
+C:\Users\Mohammed\Desktop\DesignPattern\SingletonPattern\FacotryPatterm\bin\Debug\net6.0\FacotryPatterm.deps.json
+C:\Users\Mohammed\Desktop\DesignPattern\SingletonPattern\FacotryPatterm\bin\Debug\net6.0\FacotryPatterm.runtimeconfig.json
+C:\Users\Mohammed\Desktop\DesignPattern\SingletonPattern\FacotryPatterm\bin\Debug\net6.0\FacotryPatterm.dll
+C:\Users\Mohammed\Desktop\DesignPattern\SingletonPattern\FacotryPatterm\bin\Debug\net6.0\FacotryPatterm.pdb
+C:\Users\Mohammed\Desktop\DesignPattern\SingletonPattern\FacotryPatterm\obj\Debug\net6.0\FacotryPatterm.csproj.AssemblyReference.cache
+C:\Users\Mohammed\Desktop\DesignPattern\SingletonPattern\FacotryPatterm\obj\Debug\net6.0\FacotryPatterm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mohammed\Desktop\DesignPattern\SingletonPattern\FacotryPatterm\obj\Debug\net6.0\FacotryPatterm.AssemblyInfoInputs.cache
+C:\Users\Mohammed\Desktop\DesignPattern\SingletonPattern\FacotryPatterm\obj\Debug\net6.0\FacotryPatterm.AssemblyInfo.cs
+C:\Users\Mohammed\Desktop\DesignPattern\SingletonPattern\FacotryPatterm\obj\Debug\net6.0\FacotryPatterm.csproj.CoreCompileInputs.cache
+C:\Users\Mohammed\Desktop\DesignPattern\SingletonPattern\FacotryPatterm\obj\Debug\net6.0\FacotryPatterm.dll
+C:\Users\Mohammed\Desktop\DesignPattern\SingletonPattern\FacotryPatterm\obj\Debug\net6.0\refint\FacotryPatterm.dll
+C:\Users\Mohammed\Desktop\DesignPattern\SingletonPattern\FacotryPatterm\obj\Debug\net6.0\FacotryPatterm.pdb
+C:\Users\Mohammed\Desktop\DesignPattern\SingletonPattern\FacotryPatterm\obj\Debug\net6.0\FacotryPatterm.genruntimeconfig.cache
+C:\Users\Mohammed\Desktop\DesignPattern\SingletonPattern\FacotryPatterm\obj\Debug\net6.0\ref\FacotryPatterm.dll
